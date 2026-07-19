@@ -1,0 +1,1 @@
+pip install streamlit openai chromadb duckduckgo_search pysqlite3-binary pydantic python-dotenv
